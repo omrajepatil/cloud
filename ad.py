@@ -1,7 +1,7 @@
 print("hello")
 
 
-bfs  dfs
+# bfs  dfs
 
 # def main():
 
@@ -49,7 +49,7 @@ bfs  dfs
 #     main()
 
 
-n queen
+# n queen
 
 
 # def isSafe(board,row,col,n):
@@ -106,7 +106,7 @@ n queen
 #         print("No solution exists.")
 
 
-Prims algorithm
+# Prims algorithm
 
 # inf=99999999
 # n=5
@@ -140,7 +140,7 @@ Prims algorithm
 
 
 
-A* Algorithm
+# A* Algorithm
 
 # dict_hn={'A':10,'B':15,'C':20,'D':25,'E':30}
 # dict_gn={
